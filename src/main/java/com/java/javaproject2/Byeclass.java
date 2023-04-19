@@ -5,4 +5,3 @@ public class Byeclass {
         System.out.println("bye");
     }
 }
-}
